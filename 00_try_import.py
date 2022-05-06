@@ -4,3 +4,8 @@
 # @Author   : Samuel HONG
 # @Description : 
 # @Version  :
+
+import torch
+
+x = torch.rand(5, 3)
+print(x)
