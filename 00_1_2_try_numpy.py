@@ -1,5 +1,5 @@
 # -*- coding = uft-8 -*-
-# @File     : 00_try_numpy.py
+# @File     : 00_1_2_try_numpy.py
 # @Time     : 2022/5/6 21:29  
 # @Author   : Samuel HONG
 # @Description : try_numpy_with_torch
